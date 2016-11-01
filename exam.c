@@ -1,4 +1,4 @@
-/* algorithm 1001¹ø-> A+B */
+/* algorithm 1001ë²ˆ-> A+B */
 /*
 #include <stdio.h>
 
@@ -18,7 +18,7 @@ int main() {
 
 
 
-/* Algorithm 1003¹ø -> ÇÇº¸³ªÄ¡¼ö¿­ */
+/* Algorithm 1003ë²ˆ -> í”¼ë³´ë‚˜ì¹˜ìˆ˜ì—´ */
 /*
 #include <stdio.h>
 
@@ -52,7 +52,7 @@ int fibo(int n) {
 
 
 
-/* 1009¹ø ºĞ»êÃ³¸® */
+/* 1009ë²ˆ ë¶„ì‚°ì²˜ë¦¬ */
 /*
 #include <stdio.h>
 int main() {
@@ -82,7 +82,7 @@ int main() {
 
 
 
-/* Algorithm 1015¹ø. -> ¼ö¿­ */
+/* Algorithm 1015ë²ˆ. -> ìˆ˜ì—´ */
 /*
 #include <stdio.h>
 int main() {
@@ -136,8 +136,8 @@ int main(){
 }
 */
 
-/* Algorithm 1026¹ø. -> º¸¹° */
-//A¿Í B¸¦ Á¤·Ä ÈÄ, ÃÖ¼Ò/ÃÖ´ë °ªÀ» ¼­·Î °öÇØÁÙ°Í!!
+/* Algorithm 1026ë²ˆ. -> ë³´ë¬¼ */
+//Aì™€ Bë¥¼ ì •ë ¬ í›„, ìµœì†Œ/ìµœëŒ€ ê°’ì„ ì„œë¡œ ê³±í•´ì¤„ê²ƒ!!
 /*
 #include <stdio.h>
 
@@ -192,7 +192,7 @@ int main() {
 
 
 
-/* Algorithm 1037¹ø. -> ¾à¼ö */
+/* Algorithm 1037ë²ˆ. -> ì•½ìˆ˜ */
 /*
 #include <stdio.h>
 #include <stdlib.h>
@@ -228,7 +228,7 @@ int main() {
 }
 
 
-//´Ù¸¥ Ç®ÀÌ¹æ¹ı(1037)
+//ë‹¤ë¥¸ í’€ì´ë°©ë²•(1037)
 #include <stdio.h>
  
 int main (void)
@@ -251,14 +251,14 @@ int main (void)
 */
 
 
-/* Algorithm 1057¹ø Åä³Ê¸ÕÆ® */
+/* Algorithm 1057ë²ˆ í† ë„ˆë¨¼íŠ¸ */
 /*
 #include <stdio.h>
 int main() {
 	int n, J, H, temp, cnt=0;
 	scanf("%d %d %d", &n, &J, &H);
 
-	if(J>H) {		//Ç×»ó H°¡ Jº¸´Ù Å©´Ù°í °¡Á¤!
+	if(J>H) {		//í•­ìƒ Hê°€ Jë³´ë‹¤ í¬ë‹¤ê³  ê°€ì •!
 		temp = J;
 		J = H;
 		H = temp;
@@ -280,7 +280,7 @@ int main() {
 
 
 
-/* Algorithm 1083¹ø ¼ÒÆ® */
+/* Algorithm 1083ë²ˆ ì†ŒíŠ¸ */
 /*
 #include <stdio.h>
 int arr[51];
@@ -315,7 +315,7 @@ int main() {
 
 
 
-/* Algorithm 1085¹ø. -> Á÷»ç°¢Çü¿¡¼­ Å»Ãâ */
+/* Algorithm 1085ë²ˆ. -> ì§ì‚¬ê°í˜•ì—ì„œ íƒˆì¶œ */
 /* method1 */
 /*
 #include <stdio.h>
@@ -367,7 +367,7 @@ int main()
 
 
 
-/* Algorithm 1100¹ø : ÇÏ¾á Ä­ */
+/* Algorithm 1100ë²ˆ : í•˜ì–€ ì¹¸ */
 /*
 #include <stdio.h>
 
@@ -398,7 +398,7 @@ int main() {
 
 
 
-/* Algorithm 1110¹ø. -> ´õÇÏ±â »çÀÌÅ¬ */
+/* Algorithm 1110ë²ˆ. -> ë”í•˜ê¸° ì‚¬ì´í´ */
 /*
 #include <stdio.h>
 int main() {
@@ -446,7 +446,7 @@ int main() {
 
 
 
-/* Algorithm 2501¹ø. -> ¾à¼ö±¸ÇÏ±â */
+/* Algorithm 2501ë²ˆ. -> ì•½ìˆ˜êµ¬í•˜ê¸° */
 
 /*
 #include <stdio.h>
@@ -478,7 +478,7 @@ int main() {
 
 
 
-/* Algorithm 2506 -> Á¡¼ö°è»ê */
+/* Algorithm 2506 -> ì ìˆ˜ê³„ì‚° */
 /*
 #include <stdio.h>
 
@@ -508,7 +508,7 @@ int main() {
 
 
 
-/* algorithm 2525 -> ¿Àºì½Ã°è */
+/* algorithm 2525 -> ì˜¤ë¸ì‹œê³„ */
 /*
 #include <stdio.h>
 
@@ -546,7 +546,7 @@ int main() {
 
 
 
-/* Algorithm 2557¹ø. -> Hello World Ãâ·Â */
+/* Algorithm 2557ë²ˆ. -> Hello World ì¶œë ¥ */
 /*
 #include <stdio.h>
  
@@ -562,7 +562,7 @@ int main() {
 
 
 
-/* Algorithm 2558¹ø. -> A+B¸¦ Ãâ·Â */
+/* Algorithm 2558ë²ˆ. -> A+Bë¥¼ ì¶œë ¥ */
 /*
 #include <stdio.h>
  
@@ -585,7 +585,7 @@ int main() {
 
 
 
-/* Algorithm 2563¹ø. -> »öÁ¾ÀÌ */
+/* Algorithm 2563ë²ˆ. -> ìƒ‰ì¢…ì´ */
 /*
 #include <stdio.h>
  
@@ -641,7 +641,7 @@ int main(int argc, char* argv[])
 
 
 
-/* Algorithm 2577¹ø. -> ¼ıÀÚÀÇ °³¼ö */
+/* Algorithm 2577ë²ˆ. -> ìˆ«ìì˜ ê°œìˆ˜ */
 /*
 #include <stdio.h>
 
@@ -702,7 +702,7 @@ int main() {
 	//fgets(str_read, MAX_STR_SIZE, stdin);
 	gets(str_read);
 	//}
-	printf("ÀĞ¾îµéÀÎ ¹®ÀÚ¿­ : %s \n", &str_read);
+	printf("ì½ì–´ë“¤ì¸ ë¬¸ìì—´ : %s \n", &str_read);
 
     return 0;
 }*/
@@ -791,11 +791,11 @@ int main() {
 		temp2[i] = arr[i+1] / arr[i];
 	}
 	for(i=0; i<N; i++) {
-		if(temp[i] == temp[i+1]) {		//µîÂ÷
+		if(temp[i] == temp[i+1]) {		//ë“±ì°¨
 			printf("%d\n", arr[N-1]+temp[0]);
 			break;
 		}
-		if(temp2[i] == temp2[i+1]) {		//µîºñ
+		if(temp2[i] == temp2[i+1]) {		//ë“±ë¹„
 			printf("%d\n", arr[N-1]*temp2[0]);
 			break;
 		}
@@ -804,7 +804,7 @@ int main() {
 }
 */
 
-/* 1789 ¼öµéÀÇ ÇÕ */
+/* 1789 ìˆ˜ë“¤ì˜ í•© */
 /*
 #include <stdio.h>
 int main() {
@@ -861,7 +861,7 @@ int main() {
 
 
 
-/* 9012 . °ıÈ£ */
+/* 9012 . ê´„í˜¸ */
 /*
 #include <stdio.h>
 #define MAXSIZE 100
@@ -892,7 +892,7 @@ int main ()
 */
 
 
-/*10828 ½ºÅÃ */
+/*10828 ìŠ¤íƒ */
 /*
 #include <stdio.h>
 #include <string.h>
@@ -939,7 +939,7 @@ int main() {
 }*/
 
 
-/* 11728 ¹è¿­ ÇÕÄ¡±â */
+/* 11728 ë°°ì—´ í•©ì¹˜ê¸° */
 /*
 #include <stdio.h>
 int A[1000000];
@@ -1130,7 +1130,7 @@ int main() {
 }*/
 
 
-//¹İº¹µÇÁö ¾Ê´Â Ã¹¹øÂ° ¹®ÀÚ Ã£±â
+//ë°˜ë³µë˜ì§€ ì•ŠëŠ” ì²«ë²ˆì§¸ ë¬¸ì ì°¾ê¸°
 /*
 #include <stdio.h>
 
@@ -1176,7 +1176,7 @@ int main() {
 }*/
 
 
-//10Áø¼ö¸¦ 2Áø¼ö·Î º¯È¯ÇÏ´Â ÇÁ·Î±×·¥
+//10ì§„ìˆ˜ë¥¼ 2ì§„ìˆ˜ë¡œ ë³€í™˜í•˜ëŠ” í”„ë¡œê·¸ë¨
 /*
 #include <stdio.h>
 
@@ -1199,8 +1199,8 @@ int main() {
 }*/
 
 
-//10Áø¼ö¸¦ 8Áø¼ö·Î º¯È¯ÇÏ´Â ÇÁ·Î±×·¥
-//10Áø¼ö¸¦ 16Áø¼ö·Î "
+//10ì§„ìˆ˜ë¥¼ 8ì§„ìˆ˜ë¡œ ë³€í™˜í•˜ëŠ” í”„ë¡œê·¸ë¨
+//10ì§„ìˆ˜ë¥¼ 16ì§„ìˆ˜ë¡œ "
 /*
 #include <stdio.h>
 
@@ -1226,7 +1226,7 @@ int main() {
 }
 */
 
-//2Áø¼ö¿¡¼­ 10Áø¼ö·Î º¯È¯ÇÏ±â
+//2ì§„ìˆ˜ì—ì„œ 10ì§„ìˆ˜ë¡œ ë³€í™˜í•˜ê¸°
 /*
 #include<stdio.h>
 
@@ -1240,22 +1240,22 @@ void main() {
 		len++;
 
 	for(i=len-1; i>=0; i--) {
-		if(arr[i] % 2 == 0) //0Àº ¾Æ½ºÅ°ÄÚµå·Î 48 , 1Àº 49¶ó´Â Á¡À» ÀÌ¿ë
+		if(arr[i] % 2 == 0) //0ì€ ì•„ìŠ¤í‚¤ì½”ë“œë¡œ 48 , 1ì€ 49ë¼ëŠ” ì ì„ ì´ìš©
 			sum += 0;
 		else{
 			sum += k;
 		}
 		k *= 2;
 	}
-	printf("10Áø¼ö·Î´Â => %d\n", sum);
+	printf("10ì§„ìˆ˜ë¡œëŠ” => %d\n", sum);
 }
 */
 
 
 
 
-//8Áø¼ö¿¡¼­ 10Áø¼ö·Î º¯È¯ÇÏ±â
-//16Áø¼ö¿¡¼­ 10Áø¼ö·Î º¯È¯ÇÏ±â
+//8ì§„ìˆ˜ì—ì„œ 10ì§„ìˆ˜ë¡œ ë³€í™˜í•˜ê¸°
+//16ì§„ìˆ˜ì—ì„œ 10ì§„ìˆ˜ë¡œ ë³€í™˜í•˜ê¸°
 /*
 #include<stdio.h>
 
@@ -1269,19 +1269,77 @@ void main() {
 		len++;
 
 	for(i=len-1; i>=0; i--) {
-		num = arr[i] - 48;		//¾Æ½ºÅ°ÄÚµå º¯È¯
+		num = arr[i] - 48;		//ì•„ìŠ¤í‚¤ì½”ë“œ ë³€í™˜
 		num *= k;
 		sum += num;
 		//k *= 16;
 		k *= 8;
 	}
-	printf("10Áø¼ö·Î´Â => %d\n", sum);
+	printf("10ì§„ìˆ˜ë¡œëŠ” => %d\n", sum);
+}
+*/
+
+//10ì§„ìˆ˜ë¥¼ 2ì§„ìˆ˜, 8ì§„ìˆ˜, 16ì§„ìˆ˜ë¡œ ë³€í™˜í•˜ê¸°
+/*
+#include <stdio.h>
+
+char bi[1000];
+char octa[1000];
+char hexa[1000];
+
+int main() {
+	int decimal, temp1;
+	int i = 0, bicnt = 0, octacnt = 0, hexacnt = 0;
+	
+	scanf("%d", &decimal);
+	
+	temp1 = decimal;
+	while (temp1 > 0) {
+		bi[i++] = 48 + (temp1 % 2);
+		temp1 /= 2;
+		bicnt++;
+	}
+
+	temp1 = decimal, i = 0;
+	while (temp1 > 0) {
+		octa[i++] = 48 + (temp1 % 8);
+		temp1 /= 8;
+		octacnt++;
+	}
+
+	temp1 = decimal, i = 0;
+	while (temp1 > 0) {
+		int mod = temp1 % 16;
+		if (mod < 10)
+			hexa[i++] = 48 + mod;
+		else						// ë‚˜ë¨¸ì§€ê°€ 10ë³´ë‹¤ í¬ê±°ë‚˜ ê°™ìœ¼ë©´ ë‚˜ë¨¸ì§€ì—ì„œ 10ì„ ëº€ ê°’ê³¼ ì˜ë¬¸ ëŒ€ë¬¸ì Aì˜ ASCII ì½”ë“œ ê°’ 65ë¥¼ ë”í•¨
+			hexa[i++] = 65 + (mod - 10);
+		temp1 /= 16;
+		hexacnt++;
+	}
+	
+	//binary Output
+	for (i = bicnt-1; i >= 0; i--)
+		printf("%c", bi[i]);
+	printf("(2) ");
+
+	//Octa Output
+	for (i = octacnt - 1; i >= 0; i--)
+		printf("%c", octa[i]);
+	printf("(8) ");
+
+	//Octde Output
+	for (i = hexacnt - 1; i >= 0; i--)
+		printf("%c", hexa[i]);
+	printf("(16)\n");
+
+	return 0;
 }
 */
 
 
 
-//¾à¼ö ±¸ÇÏ±â
+//ì•½ìˆ˜ êµ¬í•˜ê¸°
 /*
 #include <stdio.h>
 
@@ -1297,7 +1355,7 @@ int main() {
 	return 0;
 }*/
 
-//ÆÑÅä¸®¾ó ÇÔ¼ö
+//íŒ©í† ë¦¬ì–¼ í•¨ìˆ˜
 /*
 #include <stdio.h>
 
@@ -1320,7 +1378,7 @@ int main() {
 }
 */
 
-//ÇÇº¸³ªÄ¡ ¼ö¿­
+//í”¼ë³´ë‚˜ì¹˜ ìˆ˜ì—´
 /*
 #include <stdio.h>
 
